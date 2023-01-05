@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "Build Technologies to Next Generation.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "inches",
+    "width" : 3937.0078740157483
+  }
+}
